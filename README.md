@@ -7,8 +7,6 @@
 
  ![Rafife12 GitHub stats](https://github-readme-stats.vercel.app/api?username=rafife12&show_icons=true&theme=radical) 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafife12&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
  ### 💻 Tecnologias em aprendizado:  
 
  <div style="display: inline_block"><br/> 
@@ -16,7 +14,5 @@
 <img alignm ="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alignm ="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img alignm ="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img alignm ="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
  
  </div>
