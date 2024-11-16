@@ -25,3 +25,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </div>
+
+Snake animation](https://github.com/rafife12/rafife12/blob/output/github-contribution-grid-snake.svg)
