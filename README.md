@@ -26,4 +26,4 @@
   </a>
 </div>
 
-![snake gif](https://github.com/rafife12/README.md/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rafife12/rafife12/blob/output/github-contribution-grid-snake.gif)
