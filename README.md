@@ -4,8 +4,8 @@
 - 📫 Contato: rafael.souzadsilva1@gmail.com
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafife12&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafife12&layout=compact&langs_count=7&theme=dark"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=rafife12&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafife12&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 # ✍🏻 Tecnologia em Aprendizado:
