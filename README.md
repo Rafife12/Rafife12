@@ -1,18 +1,33 @@
+# 👋🏻 Olá, eu sou o Rafael Silva | Dev. Front-End
+- 📚 Engenharia de Computação (4/10)
+- 👨🏻‍💻 Desenvolvedor Front-End
+- 📫 Contato: rafael.souzadsilva1@gmail.com
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafife12&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafife12&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-### 👋 Olá, eu sou o Rafael Silva
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silvasrafael_/)
+# ✍🏻 Tecnologia em Aprendizado:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-plain.svg" alt="Django" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-silva-a5a594268/https://) 
+#
 
- ![Rafife12 GitHub stats](https://github-readme-stats.vercel.app/api?username=rafife12&show_icons=true&theme=radical) 
+# 🌏 Contatos para Networking:       
 
- ### 💻 Tecnologias em aprendizado:  
-
- <div style="display: inline_block"><br/> 
-<img alignm ="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alignm ="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alignm ="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img alignm ="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
- 
- </div>
+<a href="https://www.instagram.com/silvasrafael_/" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="40" height="40"/>
+  </a>
+<a href="https://www.linkedin.com/in/rafael-silva-a5a594268/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+ <a href="https://github.com/rafife12" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<a href="mailto:rafael.souzadsilva1@gmail.com" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="40" height="40"/>
+  </a>
+</div>
