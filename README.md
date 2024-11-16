@@ -2,13 +2,12 @@
 - 📚 Engenharia de Computação (4/10)
 - 👨🏻‍💻 Desenvolvedor Front-End
 - 📫 Contato: rafael.souzadsilva1@gmail.com
-
+#
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rafife12&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafife12&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-#
 
 # ✍🏻 Softwares em Aprendizado:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -17,7 +16,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 
-#
 
 # 🌏 Contatos para Networking:       
 
