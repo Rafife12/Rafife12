@@ -26,6 +26,8 @@
 
 # 🌏 Contatos para Networking:       
 
+<div align="center">
+
 
 <a href="https://www.instagram.com/silvasrafael_/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="40" height="40"/>
