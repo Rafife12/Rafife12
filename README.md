@@ -5,10 +5,10 @@
 
 <div align="center">
   <h1>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafife12&theme=onedark&show_icons=true" alt="rafife12's GitHub stats" height="150" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafife12&theme=onedark&layout=compact" alt="Top Langs" height="150" />
-  </h1>
-</div><br>
+   <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafife12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafife12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 <div align="center">
   <p>
@@ -22,12 +22,7 @@
  </p>
 </div>
 
-
-
 # 🌏 Contatos para Networking:       
-
-<div align="center">
-
 
 <a href="https://www.instagram.com/silvasrafael_/" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="40" height="40"/>
