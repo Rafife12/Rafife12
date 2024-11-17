@@ -22,7 +22,7 @@
  </p>
 </div>
 
-<div align="center">
+
 
 # 🌏 Contatos para Networking:       
 
