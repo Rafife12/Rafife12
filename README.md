@@ -34,3 +34,4 @@
 </div>
 
 ![snake gif](https://github.com/rafife12/rafife12/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/rafife12/rafife12/output/snake.svg" alt="Snake animation" />
