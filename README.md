@@ -1,5 +1,5 @@
 # 👋🏻 Olá, eu sou o Rafael Silva | Dev. Front-End
-- 📚 Engenharia de Computação (4/10)
+- 📚 Engenharia de Computação (5/10)
 - 👨🏻‍💻 Desenvolvedor Front-End
 - 📫 Contato: rafael.souzadsilva1@gmail.com
 
