@@ -20,7 +20,7 @@ alt="stats graph"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
  </p>
-</div>
+
 
 # 🌏 Contatos para Networking:       
 
@@ -31,6 +31,6 @@ alt="stats graph"/>
  <a href="https://github.com/rafife12" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-</div>
+
 
 ![snake gif](https://github.com/rafife12/rafife12/blob/output/github-contribution-grid-snake-dark.svg)
