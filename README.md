@@ -1,6 +1,6 @@
-# 👋🏻 Olá, eu sou o Rafael Silva | Dev. Front-End
+# 👋🏻 Olá, eu sou o Rafael Silva | Data Analyst
 - 📚 Engenharia de Computação (5/10)
-- 👨🏻‍💻 Desenvolvedor Front-End
+- 👨🏻‍💻 Analista de Dados
 - 📫 Contato: rafael.souzadsilva1@gmail.com
 
 <div align="center">
