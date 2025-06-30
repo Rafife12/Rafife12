@@ -49,9 +49,4 @@
 
 ---
 
-## 🐍 **Snake Game - Meus commits**
-
-![snake gif](https://github.com/rafife12/rafife12/blob/output/github-contribution-grid-snake-dark.svg)
-
----
 
