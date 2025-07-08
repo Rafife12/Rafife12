@@ -1,6 +1,6 @@
 # 👋🏻 **Olá, eu me chamo Rafael Silva | Data Analyst**
 
-- 🎓 **Engenharia de Computação (5/10)**
+- 🎓 **Engenharia de Computação (6/10)**
 - 👨🏻‍💻 **Analista de Dados**
 - 📫 **Contato:** rafael.souzadsilva1@gmail.com
 
