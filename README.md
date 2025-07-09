@@ -25,6 +25,7 @@
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="40" width="40" src="https://img.icons8.com/ios-filled/50/database.png">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://img.icons8.com/ios-filled/50/database.png">
   <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png">
   <img align="center" alt="Power BI" height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png">
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
