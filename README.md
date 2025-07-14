@@ -1,12 +1,12 @@
-# 👋🏻 **Olá, eu me chamo Rafael Silva | Data Analyst**
+# 👋🏻 **Hello, My name is Rafael Silva | Data Analyst**
 
-- 🎓 **Engenharia de Computação (6/10)**
-- 👨🏻‍💻 **Analista de Dados**
-- 📫 **Contato:** rafael.souzadsilva1@gmail.com
+- 🎓 **Computer Engineering (6/10)**
+- 👨🏻‍💻 **Data Analyst at LM Soluções de Mobilidade**
+- 📫 **Contact:** rafael.souzadsilva1@gmail.com
 
 ---
 
-## 📊 **Minhas Estatísticas:**
+## 📊 **My Statistics:**
 
 <a href="https://github.com/rafife12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafife12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ **Tecnologias que utilizo:**
+## 🛠️ **Technologies that work and Skills:**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -35,7 +35,7 @@
 
 ---
 
-## 🌍 **Redes para Networking:**
+## 🌍 **Networkings:**
 
 <div>
   <a href="https://www.instagram.com/silvasrafael_/" target="_blank">
